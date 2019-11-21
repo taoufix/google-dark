@@ -1,5 +1,5 @@
 /* ==UserStyle==
-@name Google Dark Search
+@name Google Dark Search Fork
 @version 0.7.29
 @description Recolors Google Search, highly customizable.
 @author hyperfekt
@@ -22,9 +22,9 @@
 @var text main-text-off "Main Text (Darker)" #A9
 @var text main-text-minor "Main Text (Darkest)" #74
 @var text main-text-disabled "Main Text (Disabled)" #5F
-@var text main-link "Main Link" #5A80FF
-@var text main-link-visited "Main Link (Visited)" #9268D4
-@var text main-source "Main Source" #4DAB6F
+@var text main-link "Main Link" #DD
+@var text main-link-visited "Main Link (Visited)" #74
+@var text main-source "Main Source" #8eddab
 @var text contrast "Contrast Multiplier" 1
 @var text main-border "Main Border" alpha(black, 0.9 * contrast)
 @var text main-separator "Main Separator" alpha(white, 0.15 * contrast)
